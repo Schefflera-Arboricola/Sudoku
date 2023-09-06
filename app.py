@@ -59,6 +59,7 @@ else:
 if cols_[1].button("Get solution"):
     if st.session_state.solved_sudoku :
         display_sudoku(st.session_state.solved_sudoku)
+        st.session_state.show_sudoku = False
     else:
         st.error("Please generate a new game first!")
 else:
