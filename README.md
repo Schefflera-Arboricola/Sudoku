@@ -1,4 +1,4 @@
-## [Play Sudoku](#)
+## [Play Sudoku](https://sudoku-bsfwlsf7fcp6lvhiffzasm.streamlit.app/)
 
 ### Run locally : 
 1. `git clone `
