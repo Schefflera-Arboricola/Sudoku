@@ -5,3 +5,5 @@
 2. `cd Sudoku`
 3. `pip install -r requirements.txt`
 4. `streamlit run app.py`
+
+Feel free to create issues and PRs.
